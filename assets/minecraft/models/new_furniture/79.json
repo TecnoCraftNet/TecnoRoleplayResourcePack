@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Vaipah",
 	"textures": {
 		"0": "block/gray_concrete",
 		"1": "block/gold_block",
@@ -2384,12 +2384,29 @@
 			"translation": [0, 1.25, 0],
 			"scale": [0.2, 0.2, 0.2]
 		},
+		"firstperson_righthand": {
+			"translation": [1.25, 2.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"translation": [1.25, 2.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
 		"ground": {
 			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [25, 0, 0],
+			"translation": [0.25, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"head": {
 			"translation": [0, -26.75, 0],
 			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
 		}
 	},
 	"groups": [

@@ -38,7 +38,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.4848484848484848}, "model": "item/cars/bicicletta_verde"},
 		{ "predicate": {"damaged": 0, "damage": 0.5}, "model": "item/cars/alfa-romeo-159-blu"},
 		{ "predicate": {"damaged": 0, "damage": 0.5151515151515152}, "model": "item/cars/alfa-romeo-sprint-rosa"},
-		{ "predicate": {"damaged": 0, "damage": 0.5303030303030303}, "model": "item/cars/motonera"}
+		{ "predicate": {"damaged": 0, "damage": 0.5303030303030303}, "model": "item/cars/motonera"},
+		{ "predicate": {"damaged": 0, "damage": 0.5454545454545455}, "model": "item/cars/nasa"},
+		{ "predicate": {"damaged": 0, "damage": 0.5606060606060606}, "model": "item/cars/alfa-romeo-sprint-blu"}
 
 	]
 }
