@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Vaipah",
 	"textures": {
 		"texture": "block/iron_block"
 	},
@@ -93,6 +93,19 @@
 				"west": {"uv": [7, 15.5, 8, 16], "texture": "#texture"},
 				"up": {"uv": [0, 7, 1, 8], "texture": "#texture"},
 				"down": {"uv": [0, 7, 1, 8], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, -1.6, 7.5],
+			"to": [8.5, 0.4, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 15]},
+			"faces": {
+				"north": {"uv": [6, 3, 7, 5], "texture": "#texture"},
+				"east": {"uv": [6, 3, 7, 5], "texture": "#texture"},
+				"south": {"uv": [6, 3, 7, 5], "texture": "#texture"},
+				"west": {"uv": [6, 3, 7, 5], "texture": "#texture"},
+				"up": {"uv": [6, 3, 7, 5], "texture": "#texture"},
+				"down": {"uv": [6, 3, 7, 5], "texture": "#texture"}
 			}
 		}
 	],
